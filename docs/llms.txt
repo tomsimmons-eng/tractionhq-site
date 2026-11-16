@@ -1,0 +1,49 @@
+# Traction Consulting
+
+> Traction Consulting is an AI-focused business and technology consultancy for small businesses in Charlotte, North Carolina and the surrounding metro. Its forward deployed engineers embed with a client's team to map how the business runs, build and integrate practical tools (AI, websites, custom software, API integrations), train employees, and track results with KPIs. Pricing is weekly with no contracts.
+
+## Key facts
+
+- Mission: Making AI work for you.
+- Service area: Charlotte, NC metro (including Waxhaw, Matthews, Ballantyne, Huntersville, Concord, Mint Hill, Indian Trail, Monroe, Fort Mill SC and Rock Hill SC). Service-area business; no public storefront.
+- Pricing: weekly, no contracts, pay as you go. Tier 1 (under $1M revenue, 1–10 employees): $1,250/week. Tier 2 ($1M–$3M revenue, up to 15 employees): custom quote.
+- The cost listed does not include subscriptions, token usage, and other expenses, which are kept to a minimum for the client's benefit.
+- Founder: Tom Simmons. Contact: tom@tractionhq.ai. First consultation is free.
+
+## Main pages
+
+- [Making AI work for you, inside your business](https://tractionhq.ai/): Charlotte AI consulting for small businesses. Forward deployed engineers build AI tools, websites and integrations, then train your team. Weekly pricing.
+- [Services](https://tractionhq.ai/services/): Our services: AI integration, private LLMs, websites, SEO and GEO, Google Business Profile, custom software, process mapping, AI training and exit readiness.
+- [How it works: forward deployed engineers](https://tractionhq.ai/how-it-works/): Our forward deployed engineers embed with your team, map how work gets done, build and integrate tools, train staff and report KPIs. See what a week looks like.
+- [Simple weekly pricing](https://tractionhq.ai/pricing/): Simple weekly pricing for Charlotte small businesses: $1,250/week for businesses under $1M revenue, custom quotes up to $3M. No contracts. Pay as you go.
+- [About Traction Consulting](https://tractionhq.ai/about/): Traction Consulting equips Charlotte small businesses with affordable AI and technology, plus the engineers to put it to work. Founded by Tom Simmons.
+- [AI consulting for Charlotte small businesses](https://tractionhq.ai/charlotte-ai-consulting/): Hands-on AI and technology consulting for small businesses in Charlotte, NC and nearby towns like Waxhaw, Matthews, Huntersville, Concord and Fort Mill, SC.
+- [Frequently asked questions](https://tractionhq.ai/faq/): Answers to common questions about Traction Consulting: forward deployed engineers, weekly pricing, no contracts, service area, data security and how to start.
+- [Contact Traction Consulting](https://tractionhq.ai/contact/): Book a free consultation with Traction Consulting. Email tom@tractionhq.ai to talk about AI, software and process improvements for your Charlotte-area business.
+- [Privacy policy](https://tractionhq.ai/privacy/): How Traction Consulting handles information on tractionhq.ai: no tracking cookies, no visitor profiling, and email inquiries used only to respond to you.
+- [Practical AI for small business](https://tractionhq.ai/blog/): Plain-English articles on practical AI for small business owners: getting found by ChatGPT, private AI, AI policies, automation ideas and getting ready to sell.
+
+## Services
+
+- [AI integration and privately hosted LLMs](https://tractionhq.ai/services/ai-integration-private-llms/): Put AI into your team's daily work, or run a privately hosted LLM so sensitive data stays on infrastructure you control. Charlotte AI consulting, weekly.
+- [Websites, SEO and GEO that get you found](https://tractionhq.ai/services/websites-seo-geo/): Fast websites built to be found on Google and recommended by AI assistants like ChatGPT. SEO and generative engine optimization (GEO) for Charlotte businesses.
+- [Google Business Profile and AI search visibility](https://tractionhq.ai/services/google-business-profile-ai-search/): Claim and optimize your Google Business Profile, Bing Places, Apple Business Connect and ChatGPT business listing so local customers and AI assistants find you.
+- [Custom software and API integrations](https://tractionhq.ai/services/custom-software-api-integrations/): Connect the software you already pay for and build small custom tools that remove double entry. Practical API integrations and automation for small businesses.
+- [Business process mapping, KPIs and operational efficiency](https://tractionhq.ai/services/process-mapping-kpis/): We map how work really flows through your business, find where time and money leak, and set up a short list of KPIs you can track every week. Charlotte, NC.
+- [AI training for owners and teams](https://tractionhq.ai/services/ai-training/): Hands-on AI training for owners and employees, built around your real tasks and tools. Practical skills, clear data rules, and follow-up until new habits stick.
+- [Exit and sale readiness](https://tractionhq.ai/services/exit-readiness/): Make your business easier to sell or step back from: documented processes, clean KPIs, less owner dependence and modern systems a buyer can trust. Charlotte.
+- [Marketing and lead generation](https://tractionhq.ai/services/marketing-lead-generation/): Practical marketing and lead generation for small businesses: capture every lead, respond fast, follow up automatically and see which channels pay off.
+
+## Blog articles
+
+- [What is a forward deployed engineer, and does a small business need one?](https://tractionhq.ai/blog/forward-deployed-engineer-small-business/): A plain-English guide to forward deployed engineers: what they do, how they differ from consultants and agencies, and how to tell if your business is ready.
+- [How to get your business recommended by ChatGPT and Google's AI](https://tractionhq.ai/blog/get-recommended-by-chatgpt-google-ai/): Customers now ask AI assistants for recommendations. Here's a practical GEO checklist to help small businesses get found and cited by ChatGPT and Google.
+- [10 tasks your small business can hand to AI this month](https://tractionhq.ai/blog/ai-tasks-to-automate-small-business/): Ten practical, low-risk tasks Charlotte small businesses can start handing to AI tools right now, with tips on setup, data safety, and measuring time saved.
+- [Private AI for small business: keeping your data yours](https://tractionhq.ai/blog/private-ai-small-business-data/): What a privately hosted LLM is, when it makes sense for a small business, the real trade-offs, three practical use cases and questions to ask before choosing.
+- [How to write a one-page AI use policy for your employees](https://tractionhq.ai/blog/employee-ai-use-policy/): Your team is already using AI. A one-page AI use policy sets clear rules on approved tools, sensitive data and human review. How to write one, with a template.
+- [Getting your business ready to sell: processes, KPIs and systems](https://tractionhq.ai/blog/prepare-business-to-sell-processes-kpis/): Buyers favor businesses that run without the owner. How documented processes, clean KPIs and modern systems make a small business easier to sell later on.
+
+## Optional
+
+- [Full text of this site for language models](https://tractionhq.ai/llms-full.txt)
+- [Sitemap](https://tractionhq.ai/sitemap.xml)
