@@ -24,18 +24,18 @@
 </div></header>
 <nav class="crumbs wrap" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><span aria-current="page">Contact</span></li></ol></nav>
 <main id="main">
-<section class="page-head"><div class="wrap"><span class="eyebrow">Contact</span><h1>Contact Traction Consulting</h1><p class="lede">The first consultation is free. Tell us a little about your business and what's slowing it down, and we'll reply by email to set up a time.</p><div class="ctas"><a class="btn" href="mailto:tom@tractionhq.ai?subject=Free%20consultation%20request">Book a free consultation</a></div></div></section>
+<section class="page-head"><div class="wrap"><span class="eyebrow">Contact</span><h1>Contact Traction Consulting</h1><p class="lede">The first consultation is free. Tell us a little about your business and what's slowing it down, and we'll reply by email to set up a time.</p><div class="ctas"><a class="btn" href="#cf">Book a free consultation</a></div></div></section>
 <section class="section"><div class="wrap narrow"><h2 class="first">Email us</h2>
 <p>The fastest way to reach us is email: <a href="mailto:tom@tractionhq.ai?subject=Free%20consultation%20request"><strong>tom@tractionhq.ai</strong></a>.</p>
 <h2>Or use this form</h2>
-<p>This form opens a pre-filled email in your email app, so nothing is stored on this website.</p>
+<p>This form opens a pre-filled email in your email app, so nothing is stored on this website. If no email app opens, just email <a href="mailto:tom@tractionhq.ai">tom@tractionhq.ai</a> directly; we'll copy your message so you can paste it in.</p>
 <form class="contact" id="cf" action="mailto:tom@tractionhq.ai" method="post" enctype="text/plain">
 <div><label for="n">Your name</label><input id="n" name="name" autocomplete="name" required></div>
 <div><label for="b">Business name</label><input id="b" name="business" autocomplete="organization"></div>
 <div><label for="s">Business size</label><select id="s" name="size"><option>Under $1M revenue, 1 to 10 employees</option><option>$1M to $3M revenue, up to 15 employees</option><option>Over $3M revenue</option><option>Not sure</option></select></div>
 <div><label for="m">What would you like help with?</label><textarea id="m" name="message" rows="5" required></textarea></div>
-<button class="btn" type="submit">Open email to send</button></form>
-<script>document.getElementById('cf').addEventListener('submit',function(e){e.preventDefault();var f=this,v=function(i){return document.getElementById(i).value};var body='Name: '+v('n')+'\nBusiness: '+v('b')+'\nSize: '+v('s')+'\n\n'+v('m');location.href='mailto:tom@tractionhq.ai?subject='+encodeURIComponent('Free consultation request: '+(v('b')||v('n')))+'&body='+encodeURIComponent(body);});</script>
+<button class="btn" type="submit">Open email to send</button><p id="cfmsg" role="status" hidden>If your email app didn't open, email <a href="mailto:tom@tractionhq.ai"><strong>tom@tractionhq.ai</strong></a>. Your message has been copied, so you can paste it in.</p></form>
+<script>document.getElementById('cf').addEventListener('submit',function(e){e.preventDefault();var f=this,v=function(i){return document.getElementById(i).value};var body='Name: '+v('n')+'\nBusiness: '+v('b')+'\nSize: '+v('s')+'\n\n'+v('m');try{navigator.clipboard&&navigator.clipboard.writeText(body)}catch(x){}location.href='mailto:tom@tractionhq.ai?subject='+encodeURIComponent('Free consultation request: '+(v('b')||v('n')))+'&body='+encodeURIComponent(body);var m=document.getElementById('cfmsg');m.hidden=false;});</script>
 <h2>Where we work</h2><p>We serve small businesses across the <a href="/charlotte-ai-consulting/">Charlotte, NC metro</a>, meeting on-site or online. We don't have a public office.</p>
 <h2>Before you reach out</h2><p>You might find answers in our <a href="/faq/">FAQ</a> or on our <a href="/pricing/">pricing page</a>.</p></div></section>
 </main>
